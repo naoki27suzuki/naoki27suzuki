@@ -12,6 +12,7 @@
   - AWS(ECS Fargate、Aurora PostgreSQL、DynamoDB, CloudFront, Lambda、Step Functions、SQS、etc)
   - Google Cloud(BigQuery, Datastream, Computer Engine, etc)
   - Azure(Container Apps, OpenAI, Database for MySQL, Synapse Analytics, DataFactory, etc)
+  - Elastic Cloud(Elasticsearch)
 - IaC
   - Terraform, Ansible, CloudFormation / SAM
 - Observability
