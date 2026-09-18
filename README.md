@@ -20,7 +20,7 @@
 - CI/CD
   - GitHub Actions, CodePipeline
 - Security
-  - yamory, Inspector, GuardDuty, Config, Trivy 
+  - yamory, Inspector, GuardDuty, Config, Trivy, Renovate
 - Data Platform
   - BigQuery, Redshift serverless, Synapse Analytics
 - Languages & Frameworks
