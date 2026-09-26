@@ -52,4 +52,4 @@
 
 ## Links
 
-- Zenn: https://zenn.dev/naokisuzuki27
+- Qiita: https://qiita.com/naoki27suzuki
