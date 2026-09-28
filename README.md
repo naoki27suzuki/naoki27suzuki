@@ -1,4 +1,4 @@
-## My Profile 👏
+## My Profile
 
 - Cloud Infra
 - SRE
@@ -24,7 +24,7 @@
 - Data Platform
   - BigQuery, Redshift serverless, Synapse Analytics
 - Languages & Frameworks
-  -  PHP (Laravel), Python (FastAPI)、Shell script, SQL, NRQL
+  -  Python (FastAPI)、Shell script, SQL, NRQL
 
 ## Certifications
 
