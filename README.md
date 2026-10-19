@@ -33,7 +33,7 @@ AWSを中心としたクラウドインフラの設計・構築・運用を中�
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
 ![Renovate](https://img.shields.io/badge/Renovate-308BE3?style=flat-square&logo=renovate&logoColor=white)
 [![yamory](https://img.shields.io/badge/yamory-脆弱性管理_/_SBOM-333333?style=flat-square)](https://yamory.io/)
-![AWS Security](https://img.shields.io/badge/Inspector_/_GuardDuty_/_Config-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Security](https://img.shields.io/badge/WAF_/_Inspector_/_GuardDuty_/_Config-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Data Platform**<br>
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
