@@ -41,7 +41,7 @@ AWSを中心としたクラウドインフラの設計・構築・運用を中�
 ![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square)
 
 **Languages & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=py,fastapi,bash,postgres" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,bash,postgres,mysql" />
 ![NRQL](https://img.shields.io/badge/NRQL-1CE783?style=flat-square&logo=newrelic&logoColor=black)
 ## Certifications
 
