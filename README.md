@@ -1,31 +1,48 @@
-## My Profile
+## My Profile 👋
 
-- Cloud Infra
-- SRE
-- Backend
+AWSを中心としたクラウドインフラの設計・構築・運用を中心に、SRE・バックエンドも担当しています。
+
+![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## Tech Stack 🛠️
 
-- Cloud
-  - AWS(ECS Fargate、Aurora PostgreSQL、DynamoDB, CloudFront, Lambda、Step Functions、SQS、etc)
-  - Google Cloud(BigQuery, Datastream, Computer Engine, etc)
-  - Azure(Container Apps, OpenAI, Database for MySQL, Synapse Analytics, DataFactory, etc)
-  - Elastic Cloud(Elasticsearch)
-- IaC
-  - Terraform, Ansible, CloudFormation / SAM
-- Observability
-  - Zabbix, New Relic, Grafana
-- CI/CD
-  - GitHub Actions, CodePipeline
-- Security
-  - yamory, Inspector, GuardDuty, Config, Trivy, Renovate
-- Data Platform
-  - BigQuery, Redshift serverless, Synapse Analytics
-- Languages & Frameworks
-  -  Python (FastAPI)、Shell script, SQL, NRQL
+**Cloud**<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,elasticsearch" /><br>
+<sub>AWS: ECS Fargate / Aurora PostgreSQL / DynamoDB / CloudFront / Lambda / Step Functions / SQS</sub><br>
+<sub>Google Cloud: BigQuery / Datastream / Compute Engine</sub><br>
+<sub>Azure: Container Apps / OpenAI / Database for MySQL / Synapse Analytics / Data Factory</sub>
 
+**IaC / Container**<br>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker" />
+![CloudFormation](https://img.shields.io/badge/CloudFormation_/_SAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Observability**<br>
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square)
+![Application Signals](https://img.shields.io/badge/CloudWatch_Application_Signals-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**CI/CD**<br>
+<img src="https://skillicons.dev/icons?i=githubactions" />
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Security**<br>
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-308BE3?style=flat-square&logo=renovate&logoColor=white)
+[![yamory](https://img.shields.io/badge/yamory-脆弱性管理_/_SBOM-333333?style=flat-square)](https://yamory.io/)
+![AWS Security](https://img.shields.io/badge/Inspector_/_GuardDuty_/_Config-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Data Platform**<br>
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift_Serverless-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square)
+
+**Languages & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=py,fastapi,bash,postgres" />
+![NRQL](https://img.shields.io/badge/NRQL-1CE783?style=flat-square&logo=newrelic&logoColor=black)
 ## Certifications
 
 ### AWS
@@ -50,6 +67,6 @@
 
 ---
 
-## Links
+## Links 🔗
 
-- Zenn: https://zenn.dev/naokisuzuki27
+[![Zenn](https://img.shields.io/badge/Zenn-naokisuzuki27-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/naokisuzuki27)
