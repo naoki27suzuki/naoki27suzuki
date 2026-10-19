@@ -1,7 +1,5 @@
 ## My Profile 👋
 
-AWSを中心としたクラウドインフラの設計・構築・運用を中心に、SRE・バックエンドも担当しています。
-
 ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![SRE](https://img.shields.io/badge/SRE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
